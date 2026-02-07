@@ -39,7 +39,7 @@ LOGIN_HTML = '''
 <html>
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login | MR.GHOST</title>
+    <title>Login | LAM CODEX</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     
     <script src="https://pl28664877.effectivegatecpm.com/9b/09/14/9b0914dde54e0f75462c782bc760cb71.js"></script>
